@@ -38,21 +38,6 @@ The Google Cybersecurity Certificate is designed to equip learners with the foun
 
 ---
 
-## ✅ Progress Tracker
-
-| Course                                         | Status         |
-|-----------------------------------------------|----------------|
-| Foundations of Cybersecurity                  | ✅ Complete     |
-| Play It Safe: Manage Security Risks           | ⏳ In Progress  |
-| Connect and Protect: Networks                 | ⏳ In Progress  |
-| Tools of the Trade                            | ⬜ Not Started  |
-| Assets, Threats, and Vulnerabilities          | ⬜ Not Started  |
-| Sound the Alarm: Detection and Response       | ⬜ Not Started  |
-| Automate Cybersecurity Tasks                  | ⬜ Not Started  |
-| Put It to Work: Final Project                 | ⬜ Not Started  |
-
----
-
 ## 📌 Disclaimer
 
 These notes reflect my personal understanding and are not officially affiliated with Google or Coursera.  
