@@ -1,0 +1,54 @@
+1 - A COMPUTER VIRUS s malicious code written to interfere with computer operations 
+    and cause damage to data. 
+
+2 - Which security event, related to the successful infiltration of a credit 
+    reporting agency, resulted in one of the largest known data breaches of 
+    sensitive information, including customers' social security and credit card 
+    numbers?
+
+    Equifax breach
+
+3 - Social engineering is a MANIPULATION TECHNIQUE hat exploits human error to gain 
+    private information, access, or valuables.
+
+4 - A security professional conducts internal training to teach their coworkers how 
+    to identify a social engineering attack. What types of security issues are they 
+    trying to avoid? Select all that apply.
+
+    Malicious software being deployed
+    Employees inadvertently revealing sensitive data
+    Phishing attacks
+
+5 - Which of the following tasks are part of the security and risk management 
+    domain? Select all that apply.
+
+    Defining security goals and objectives
+    Business continuity
+    Compliance
+
+6 - Which of the following tasks may be part of the security architecture and 
+    engineering domain? Select all that apply.
+
+    Ensuring that effective systems and procedures are in place
+    Configuring a firewall
+
+7 - Which domain involves securing digital and physical assets, as well as managing 
+    the storage, maintenance, retention, and destruction of data?
+
+    Asset security
+
+8 - Which domain involves conducting, collecting, and analyzing data, as well as 
+    conducting security audits to monitor for risks, threats, and vulnerabilities?
+
+    Security assessment and testing
+
+9 - A security professional is asked to issue a keycard to a new employee. Which 
+    domain does this scenario relate to?
+
+    Identity and access management
+
+10 - A security professional receives an alert that an unknown device has connected 
+    to their organization’s internal network. They follow policies and procedures 
+    to quickly stop the potential threat. Which domain does this scenario describe?
+
+    Security operations
