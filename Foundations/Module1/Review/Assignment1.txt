@@ -1,0 +1,43 @@
+1 - Cybersecurity aims to protect networks, devices, people, and data from CRIMINAL
+    EXPLOITATION or unauthorized access. 
+
+2 - What accurs during a seciruty audit?
+    
+    Review of an organization's security records, activities, and other related
+    documents.
+
+3 - An employee receives an email that they believe to be legitimate. They click on 
+    a compromised link within the email. What type of internal threat does this 
+    scenario describe?
+
+    Accidental
+
+4 - Identity theft is the act of stealing PERSONAL INFORMATION to commit fraud 
+    while impersonating a victim.
+
+5 - What are some key benefits associated with an organization meeting regulatory 
+    compliance? Select two answers.
+
+    Avoiding fines
+    Upholding ethical obligations
+
+6 - An individual is in their first job as an entry-level security professional. 
+    They take training to learn more about the specific tools, procedures, and 
+    policies that are involved in their career. What does this scenario describe?
+
+    Gaining new technicak skills
+
+7 - Security information and EVENT management (SIEM) tools enable security 
+    professionals to identify and analyze threats, risks, and vulnerabilities.
+
+8 - What do security professionals typically do eith SIEM tools?
+
+    Identify and analyze security threats, risks and vulnerabilities
+
+9 - Which of the following statements accurately describe personally identifiable 
+    information (PII) and sensitive personally identifiable information (SPII)? 
+    Select all that apply.
+
+    The theft of SPII is often more damaging than the theft of PII
+    An example of PII is someone's email address
+    SPII is a type of PII that falls under stricter handling guidelines

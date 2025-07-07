@@ -1,0 +1,15 @@
+1 - A computer virus is malicious CODE that interferes with computer operations and 
+    causes damage.
+
+2 - What is one way that the Morris worm helped shape the security industry?
+    It led to the development of computer response teams.
+
+3 - What were the key impacts of the Equifax breach? Select two answers.
+    
+    The significant financial consequences of a breach became more apparent.
+    Millions of customer's PII was stolen.
+
+4 - Social engineering, such as phishing, is a manipulation technique that relies 
+    on computer error to gain private information, access, or valuables. 
+
+    False

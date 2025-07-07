@@ -1,0 +1,22 @@
+1 - Examples of security DOMAINS include security and risk management and security 
+architecture and enginerring.
+
+2 - A security professional is asked to destroy and dispose of old hard drives that 
+include confidential customer information. Which security domain is this task 
+related to?
+
+    Asset security
+
+3 - Your supervisor asks you to audit user permissions for payroll data to ensure no 
+unauthorized employees have access to it. Which security domain is this audit 
+related to?
+
+    Security assessment and testing
+
+4 - You are asked to investigate an alert related to an unknown device that is 
+connected to the company's internal network. After you complete your investigation, 
+you follow company policies and procedures to implement preventative measures that 
+will stop the potential threat posed by the device. Which security domain is this 
+scenario related to?
+
+    Security operations
