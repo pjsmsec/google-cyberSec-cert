@@ -1,0 +1,49 @@
+1 - What are some of the primary purposes of security frameworks? Select three 
+    answers.
+
+    Managing organizational risks
+
+2 - Which of the following are core components of security frameworks? Select two 
+    answers.
+
+    Implementing security processes
+
+    Setting guidelines to achieve security goals
+
+3 - A security professional has been tasked with implementing safeguards to reduce 
+    suspicious activity on their company's network. They use SECURITY CONTROLS to 
+    help them reduce this type of risk.
+
+4 - You are helping your security team consider risk when setting up a new software 
+    system. Using  the CIA triad, you focus on confidentiality, integrity, and what 
+    else?
+
+    Availability
+
+5 - A key aspect of the CIA triad is ensuring that only AUTHORIZED USERS can access
+    specific assets.
+
+6 - Which of the following statements accurately describe the NIST CSF? Select all 
+    that apply.
+
+    It's purpose is to help manage cybersecurity risk.
+    It consists os standards, guidelines, and best practices.
+    It is a voluntary framework.
+
+7 - As a security professional, you monitor the potential threats associated with
+    DISGRUNTLED EMPLOYEES because they often have access to sensitive information, 
+    know where to find it, and may have malicious intent. 
+
+8 - A security professional working at a bank is running late for a meeting. They 
+    consider saving time by leaving files on their desk that contain client account 
+    numbers. However, after thinking about company guidelines with regards to 
+    compliance, the security professional takes the time to properly store the files. 
+    Which concept does this scenario describe?
+
+    Security ethics
+
+9 - The ethical principle of PRIVACY PROTECTION involves safeguarding an 
+    organization’s human resources records that contain personal details about 
+    employees.
+
+10 - The ethical principle of LAWS nvolves adhering to compliance regulations.  
