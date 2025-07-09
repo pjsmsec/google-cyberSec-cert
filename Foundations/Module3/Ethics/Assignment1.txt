@@ -1,0 +1,25 @@
+1 - An employee trained to handle PII and SPII leaves confidential patient 
+    information unlocked in a public area. Which ethical principles does this 
+    violate? 
+
+    Confidentiality
+    Laws
+    Privacy protections
+
+2 - Privacy protection means safeguarding PERSONAL INFORMATION from unauthorized use.
+
+3 - You receive a text message on your personal device from your manager stating 
+    that they cannot access the company’s secured online database. They’re updating 
+    the company’s monthly party schedule and need another employee’s birth date right 
+    away. Your organization’s policies and procedures state that employee information 
+    should never be accessed or shared through personal communication channels. What 
+    should you do?
+
+    Respectfully decline, then remind your manager of the organization's guidelines.
+
+4 - You work for a U.S.-based utility company that suffers a data breach. Several 
+    hacktivist groups claim responsibility for the attack. However, there is no 
+    evidence to verify their claims. What is the most ethical way to respond to this 
+    incident?
+
+    Improve the company's defenses to help prevent future attacks.
