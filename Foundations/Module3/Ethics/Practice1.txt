@@ -1,0 +1,30 @@
+Scenario 1:
+You work for a hospital as a security analyst.
+One day, you log into your work computer and see a ransom note displayed on your 
+screen. Access to files and applications is lock.
+You realize this is a ransonware attack.
+
+    Immediately contact your supervisor
+
+Scenario 2:
+A doctor you work with claims to have laptop performance issues, so you try to 
+identify the problem.
+As you're working, you notice the doctor's laptop has unsecured patient files 
+visible on-screen instead of within the medical practice's secure software.
+
+    Immediately secure the patient files
+
+Scenario 3:
+You work for a medical device company as an entry-level security analyt.
+Your supervisor has asked you to securely dispose of old developer laptops, and 
+tells you they may contain PII
+
+    Remove the laptop hard drives and irreversibly erase all data
+
+Scenario 4:
+You work as an entry-level analyst for a pharmaceutical company.
+You receive SIEM tool alerts about unusual employee activity.
+You check their account and observe them copying confidential files to an external 
+folder linked to an unknown destination.
+
+    Folow provided procedures to address the issue
