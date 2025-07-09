@@ -1,0 +1,18 @@
+1 - A security FRAMEWORK is a set of guidelines used for building plans to help 
+    mitigate risk and threats to data and privacy.
+
+2 - An organization requires its employees to complete a new data privacy training 
+    program each year to reduce the risk of a data breach. What is this training 
+    requirement an example of?
+
+    Security control
+
+3 - What is a foundational model that informs how organizations consider risk when 
+    setting up systems and security policies?
+
+    Confidentiality, Integrity, Availability (CIA) triad
+
+4 - Security teams use the NIST Cybersecurity Framework (CSF) as a baseline to 
+    manage short and long-term risk.
+
+    True
